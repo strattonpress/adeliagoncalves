@@ -1,0 +1,98 @@
+{
+	"authorname": "Adelia Goncalves",
+	"gender": "f",
+	"featuredbooktitle": "Love Me Now and Forever",
+	"contact": [
+		{ "icon": "location", "value": "831 N Tatnall Street, Suite M #188, Wilmington, DE 19801" },
+		{ "icon": "phone", "value": "888-323-7009", "text": "Tel" },
+		{ "icon": "mail", "value": "publish@stratton-press.com", "text": "Email" }
+	],
+	"socmed": [
+		{ "type": "facebook", "link": "https://www.facebook.com/adelia.goncalves.311493" },
+		{ "type": "twitter", "link": "https://www.twitter.com/strattonpress/" },
+		{ "type": "instagram", "link": "https://www.instagram.com/strattonpress/" },
+		{ "type": "goodreads", "link": "https://www.goodreads.com/book/show/42731896-love-me-now-and-forever" },
+		{ "type": "linkedin", "link": null },
+		{ "type": "googleplus", "link": null },
+		{ "type": "youtube", "link": null }
+	],
+	"mainmenu": [
+		{ "link": "/", "text": "Home" },
+		{ "link": "/about-the-author/", "text": "About the Author" },
+		{ "link": "/about-the-book/", "text": "About the Book" },
+		{ "link": "/contact/", "text": "Contact" }
+	],
+	"home": [
+		{
+			"banner": "Adelia worked in a laboratory for a pharmaceutical company, she also worked as a plaster technician for a Dental Technician. She worked in admin and customer service, at an asparagus farm, in a factory, in sales and marketing, retail as well as in the community sector as an interpreter and commercial artist . . .",
+			"synopsis": "Love Me Now and Forever is a book about life’s trying moments. Here the author is trying to address the issues that people face in society and hope to respect, relearn, reconsider, recapture, restore, rely, reenter, relate, reexamine, review, renew, and retell with God the principal author and perfector of our life when we believe and trust in him.",
+			"amazonlink": "https://www.amazon.com/Love-Now-Forever-Adelia-Goncalves/dp/1947355317/"
+		}
+	],
+	"reviews": [
+		{
+			"content": "My name is Michael Raj. I am the campus pastor of Faith Christian Church, Casey located in Narre Warren. Adelia Goncalves is one of our regular and dedicated members. She is faithful and committed to the vision of our church and she is also very kind and caring towards people in the church. Her book 'Love Me Now & Forever' is very well written. It is inspiring and encouraging especially to those who have had a difficult time growing up. It's main theme of hope in the midst of despair is expressed in clear and simple terms. The book draws validity from Biblical scripture and leads the reader to the ultimate Hope-Giver, the loving Father Himself. My wish is for readers of this book to open their hearts and allow themselves to journey with the author to their destiny in God.",
+			"rating": "5",
+			"reviewer": "Pastor Michael Raj"
+		},
+		{
+			"content": "The story that brings to light the familial struggles that many of us face behind closed doors. Substance abuse, violence and a deep sense of neglect buried behind a desperate search for love and attachment and a holding onto hope, are a few of the underlying themes presented in this dramatic story. However, it is faith found in the little things and the importance of the people who float through our lives, sometimes for only a short season that make this book stand out from the rest- most importantly the realization that there is only one whom we can truly depend on to fulfil all our needs along our journey to self-discovery, and that person is Jesus Christ.",
+			"rating": "5",
+			"reviewer": ""
+		},
+		{
+			"content": "I first met Adelia in Melbourne at Flinders Street Station on a pleasant afternoon. Adelia seemed a vivacious person; singing and laughing and enjoying discussions with people about Jesus. As I got to know Adelia her confidence shined through and I always looked forward to seeing her again. Adelia’s book is quite interesting as she exposes the mind of the person fully. It has a sense of anticipation, with different moods and circumstances of the character as life moves along. It builds upon caring for and loving others even when you don’t agree or want to bother. There are some very exciting moments and catastrophes that seem irrevocable but turn out to be blessings in disguise.",
+			"rating": "5",
+			"reviewer": ""
+		}
+	],
+	"abouttheauthor": [
+		{
+			"left": [
+				""
+			],
+			"right": [
+				""
+			]
+		}
+	],
+	"aboutthebook": [
+		{
+			"booktitle": "Love Me Now and Forever",
+			"bookimage": "/book.jpg",
+			"synopsis": [
+				"Love Me Now and Forever is a book about life’s trying moments. Here the author is trying to address the issues that people face in society and hope to respect, relearn, reconsider, recapture, restore, rely, reenter, relate, reexamine, review, renew, and retell with God the principal author and perfector of our life when we believe and trust in him.",
+				"The Bible says, “Faith is the substance of things hoped for and the evidence of things not seen” (Hebrews 11:1). If you are soul-searching, then you have found the right book. Intriguing and beautifully written, it will educate you to admire what is desirable and essential. It is a Christian counselling book about love, relationships, and friendships. The characters in the story are stories from people of different backgrounds brought together to challenge the reader to realise, relate to, and to apply the word of God in their lives. To believe in miracles and fulfil their lives with joy.",
+				"In the counselling and community sector, the type of trauma people experience on a daily basis are recognised and spoken about and not only to raise awareness but to also bring hope and understanding. Without a vision, the people perish. God wants us to be with power, love, and a sound mind. Use our hands and feet for the good of others.",
+				"This is one of them—a story of a young widow who is left with two beautiful children, and she discovers the good news of the gospel. Faith, hope, and love.",
+				"She remembers her past, her hurtful situations, plus her relationship breakdowns were the causes of her pain and isolation.",
+				"But her soul-searching journey leads her to a path for restoration and peace. This book will educate the reader and will be able to share light on how amazing God is able to come through in any situation if you can meet him at the cross. Your crossroad is not the end of the matter because his love for you is unconditional and eternal. This is a book that will feed you with God’s word, examining the heart and the core of our existence—who we are and where we belong. You will be moved and inspired to live with God every day and in loving his word for your strength, wisdom, and guidance. Enjoying his grace, his love, and his forgiveness.",
+				"Love you now and forever.",
+				"God bless you!"
+			],
+			"booklinks": [
+				{
+					"type": "E-book",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Love-Now-Forever-Adelia-Goncalves-ebook/dp/B07DTYLLFK/" }
+					]
+				},
+				{
+					"type": "Paperback",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Love-Now-Forever-Adelia-Goncalves/dp/1947355317/" }
+					]
+				}
+			]
+		}
+	],
+	"footermenu": [
+		{ "link": "/", "text": "Home" },
+		{ "link": "/about-the-author/", "text": "About the Author" },
+		{ "link": "/about-the-book/", "text": "About the Book" },
+		{ "link": "/contact/", "text": "Contact" },
+		{ "link": "/privacy-policy/", "text": "Privacy Policy" },
+		{ "link": "/terms-and-conditions/", "text": "Terms and Conditions" }
+	],
+	"copyrightyear": "2018"
+}
